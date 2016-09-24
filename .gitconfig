@@ -31,8 +31,8 @@
   merge = refs/heads/master
 
 [user]
-	name = Joanner Pena
-	email = joanner.c1006@hotmail.com
+	name = yourname
+	email = youremail
 [core]
 	editor = vim
 [mergetool "sublime"]
