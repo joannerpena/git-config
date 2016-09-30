@@ -11,5 +11,5 @@ curl -O https://raw.githubusercontent.com/joannerpena/git-config/master/.gitconf
 Necesitas agregar tu **Nombre** y tu **Email**. Lo puedes hacer de la siguiente manera:
 ```bash
 git config --global user.name "Tu Nombre"
-git config --global user.email Tuemail@dominio.com
+git config --global user.email "Tuemail@dominio.com"
 ```
